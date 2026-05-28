@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdecrypt",
+        "uuid": 10636816,
+        "checksum": "fkdwmi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
